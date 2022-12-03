@@ -10,7 +10,6 @@ function Navbar() {
         <NavLink to={"/about"}><i class="far fa-address-card"></i> About</NavLink>
         <NavLink to={"/project"}><i class="fas fa-tasks-alt"></i> Project</NavLink>
         </div>
-
         </div>
     </div>
   )
